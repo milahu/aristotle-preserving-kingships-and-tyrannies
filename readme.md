@@ -1,0 +1,125 @@
+# Aristotle - Politics - Book V - Chapter 11: Preserving Kingships and Tyrannies
+
+
+
+exact [bekker numbers](https://en.wikipedia.org/wiki/Bekker_numbering) taken from  
+<https://annas-archive.se/md5/872d3d9fdc7d153df7ddeb40c6e5921e>
+
+## translations
+
+https://en.wikipedia.org/wiki/Politics_(Aristotle)#Translations
+
+- [Translation by C.D.C. Reeve, 1998](reeve-1998.md)
+- [Translation by Joe Sachs, 2012](joe-sachs-2012.md)
+- [Translation by Harris Rackham, 1932](harris-rackham-1932.md)
+- [Translation by Benjamin Jowett, 1885](benjamin-jowett-1885.md)
+- [Translation by William Ellis, 1912](william-ellis-1912.md)
+- [Translation by Peter L. P. Simpson, 1997](peter-simpson-1997.md)
+- [Translation by Carnes Lord, 2013, 2nd edition](carnes-lord-2013-2nd-edition.md)
+- [Translation by T. A. Sinclair, 1981](ta-sinclair-1981.md)
+- [Translation by Ernest Barker, 1948](ernest-barker-1948.md)
+
+
+
+## compare translations
+
+all translations are bad...  
+censorship by manipulation of translation.
+
+you have to cherry-pick from multiple translations  
+to get the most explicit wording.
+
+
+
+### 1313b.9
+
+Reeve:  
+"It is also tyrannical to impoverish the people,  
+so that they cannot afford a militia  
+and are so occupied with their daily work  
+that they lack the leisure for plotting."
+
+Sachs:  
+"It is also characteristic of tyrants to make their subjects poor,  
+both so that they cannot maintain a militia,  
+and so that they are too busy looking after daily needs  
+to have free time to get into conspiracies."
+
+Rackham:  
+"And it is a device of tyranny to make the subjects poor,  
+so that a guard may not be kept,  
+and also that the people being busy with their daily affairs  
+may not have leisure to plot against their ruler."
+
+Jowett:  
+"Also he should impoverish his subjects;  
+he thus provides against the maintenance of a guard by the citizen  
+and the people, having to keep hard at work, are prevented from conspiring."
+
+Ellis:  
+"It is also advantageous for a tyranny  
+that all those who are under it should be oppressed with poverty,  
+that they may not be able to compose a guard;  
+and that, being employed in procuring their daily bread,  
+they may have no leisure to conspire against their tyrants."
+
+Simpson:  
+"Tyrannical also is making the ruled poor,
+so that they can provide themselves no defense,
+and, being taken up with daily needs, have no leisure for plotting."
+
+Lord1984, Lord2013:  
+"It is also a feature of tyranny to make the ruled poor,  
+so that they cannot sustain their own defense,  
+and are so occupied with their daily needs that they lack the leisure to conspire."
+
+Sinclair1981:  
+"It is also in the interests of a tyrant to make his subjects poor,  
+so that he may be able to afford the cost of his bodyguard,  
+while the people are so occupied with their daily tasks that they have no time for plotting."
+
+Barker1948:  
+"Finally, a policy pursued by tyrants is that of impoverishing their subjects —
+partly to prevent them from having the means for maintaining a civic guard;
+partly to keep them so busy in earning a daily pittance that they have no time for plotting."
+
+
+
+### 1314a
+
+Reeve:  
+"decent people act out of friendship, not flattery."
+
+Sachs:  
+"Decent people are friends; in other words, they do not flatter."
+
+Rackham:  
+"men of character love their ruler, or at all events do not flatter him."  
+exact opposite!
+
+Jowett, Ellis:  
+"for they love the virtuous, but flatter none."
+
+Simpson:  
+"the decent can be friends, but they are no flatterers."
+
+Lord1984, Lord2013:  
+"respectable persons may be friends, but they will certainly not flatter."
+
+Sinclair1981:  
+"Respectable men give friendship, or at any rate refrain from flattery"
+
+Barker1948:  
+"a good man may be a friend, but at any rate he will not be a flatterer."
+
+
+
+### todo
+
+these translations are not in annas-archive
+
+- [Translation by Carnes Lord, 1984](carnes-lord-1984.md)
+- [Translation by W.L. Newman, 1887](wl-newman-1887.md)
+- [Translation by Franz Susemihl, 1894](franz-susemihl-1894.md)
+- [Translation by Edward Walford, 1853](edward-walford-1853.md)
+- [Translation by J.E.C. Welldon, 1883](jec-welldon-1883.md)
