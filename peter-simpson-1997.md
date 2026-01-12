@@ -104,9 +104,11 @@ substance was paid over in five years.
 
 \[1313b.11\]  
 A tyrant is also a maker of war, so that  
-the ruled may have no leisure and be continually in need of a leader.  
-Further, while kingship is preserved by friends, it is a mark of tyranny to distrust  
-friends most of all because, though everyone wants to attempt something,  
+the ruled may have no leisure and be continually in need of a leader.
+
+Further, while kingship is preserved by friends,  
+it is a mark of tyranny to distrust friends most of all  
+because, though everyone wants to attempt something,  
 these are most able to do it.
 
 Everything that happens in ultimate democracy is also typical of tyranny:

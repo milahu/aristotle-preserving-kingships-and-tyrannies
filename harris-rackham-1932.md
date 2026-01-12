@@ -98,11 +98,13 @@ in five years men had contributed the whole of their substance).
 \[1313b.11\]  
 Also the tyrant is a stirrer-up of war,  
 with the deliberate purpose of keeping the people busy  
-and also of making them constantly in need of a leader.  
+and also of making them constantly in need of a leader.
+
 Also whereas friends are a means of security to royalty,  
 it is a mark of a tyrant to be extremely distrustful of his friends,  
 on the ground that, while all have the wish,  
-these chiefly have the power.  
+these chiefly have the power.
+
 Also the things that occur in connexion with  
 the final form of democracy b are all favourable to  
 tyranny —

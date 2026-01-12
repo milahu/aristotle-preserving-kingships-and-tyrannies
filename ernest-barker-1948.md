@@ -168,12 +168,14 @@ whole of their property to the state.
 
 \[1313b.11\]  
 The same vein of policy also makes tyrants war-mongers,  
-with the object of keeping their subjects constantly occupied and continually in need of a leader.  
-\[It is the sowing of distrust which is the special characteristic of  
-tyrants.\] Kings are maintained and secured by their friends;  
-tyrants, going on the principle 'All men want my overthrow, but  
-my friends have most power to effect it', distrust them above all  
-others.
+with the object of keeping their subjects constantly occupied and continually in need of a leader.
+
+\[It is the sowing of distrust which is the special characteristic of tyrants.\]
+
+Kings are maintained and secured by their friends;  
+tyrants, going on the principle  
+'All men want my overthrow, but my friends have most power to effect it',  
+distrust them above all others.
 
 § 11.
 

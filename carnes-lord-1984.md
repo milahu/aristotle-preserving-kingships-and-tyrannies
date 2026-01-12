@@ -108,9 +108,9 @@ that they were taxed for their entire property over a period of five years.
 The tyrant is also a warmonger, so that they will  
 always be kept lacking in leisure and in need of a leader.
 
-Kingship is preserved by friends \[of the king\], but it is characteristic of the  
-tyrant to distrust his friends, on the assumption that all wish \[to  
-overthrow him\], but these are particularly capable of it.
+Kingship is preserved by friends \[of the king\],  
+but it is characteristic of the tyrant to distrust his friends,  
+on the assumption that all wish \[to overthrow him\], but these are particularly capable of it.
 
 Everything that happens in connection with democracy of the extreme sort  
 is characteristic of tyranny —

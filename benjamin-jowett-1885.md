@@ -96,10 +96,10 @@ The tyrant is also fond of making war
 in order that his subjects may have something to do and be always  
 in want of a leader.
 
-And whereas the power of a king is preserved by  
-his friends, the characteristic of a tyrant is to distrust his friends,  
-because he knows that all men want to overthrow him, and they  
-above all have the power.  
+And whereas the power of a king is preserved by his friends,  
+the characteristic of a tyrant is to distrust his friends,  
+because he knows that all men want to overthrow him, and they above all have the power.
+
 Again, the evil practices of the last and worst form of democracy are  
 all found in tyrannies.
 

@@ -117,12 +117,14 @@ paying in their entire property).
 \[1313b.11\]  
 A tyrant is also a warmonger,  
 so that people will be without leisure  
-and be constantly in need of a leader.  
+and be constantly in need of a leader.
+
 And whereas kingship is preserved —  
 by its friends,  
 it is characteristic of a tyrant to distrust his friends most of all,  
 because what everyone wants,  
-they have the most power to carry out.  
+they have the most power to carry out.
+
 And all the things that happen in the last stage of democracy  
 apply to tyranny as well:
 

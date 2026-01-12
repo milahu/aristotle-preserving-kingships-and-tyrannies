@@ -100,11 +100,13 @@ taxation ate up a person's entire estate in five years.
 \[1313b.11\]  
 A tyrant also engages in warmongering  
 in order that his subjects will lack leisure  
-and be perpetually in need of a leader.  
+and be perpetually in need of a leader.
+
 And while a kingship is preserved by its friends,  
 it is the mark of a tyrant to distrust his friends,  
 on the grounds that while all his subjects wish to overthrow him,  
-these are particularly capable of doing so.  
+these are particularly capable of doing so.
+
 All the practices found in the extreme kind of democracy  
 are also characteristic of a tyranny:
 
