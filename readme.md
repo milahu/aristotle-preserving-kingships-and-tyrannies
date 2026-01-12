@@ -31,6 +31,46 @@ to get the most explicit wording.
 
 
 
+### 1313b.1
+
+Reeve:  
+"cutting down the outstanding men  
+and eliminating the high-minded ones"
+
+Sachs:  
+"by cutting down those who stand out  
+and getting rid of those with proud thoughts"
+
+Rackham:  
+"the lopping off of outstanding men  
+and the destruction of the proud"
+
+Jowett:  
+"that the tyrant should lop off those who are too high;  
+he must put to death men of spirit"
+
+Ellis:  
+"to keep down those who are of an aspiring disposition,  
+to take off those who will not submit"
+
+Simpson:  
+"cutting down the superior  
+and doing away with those of high thoughts"
+
+Lord1984, Lord2013:  
+"lopping off the preeminent  
+and eliminating those with high thoughts"
+
+Sinclair1981:  
+"Lop off the eminent  
+and get rid of men of independent spirit"
+
+Barker1948:  
+"the 'lopping off' of outstanding men,  
+and the removal of men of spirit"
+
+
+
 ### 1313b.9
 
 Reeve:  
