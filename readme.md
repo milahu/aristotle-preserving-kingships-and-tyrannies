@@ -125,6 +125,61 @@ partly to keep them so busy in earning a daily pittance that they have no time f
 
 
 
+### 1313b.11
+
+Reeve:  
+"And while a kingship is preserved by its friends,  
+it is the mark of a tyrant to distrust his friends,  
+on the grounds that while all his subjects wish to overthrow him,  
+these are particularly capable of doing so."
+
+Sachs:  
+"And whereas kingship is preserved —  
+by its friends,  
+it is characteristic of a tyrant to distrust his friends most of all,  
+because what everyone wants,  
+they have the most power to carry out."
+
+Rackham:  
+"Also whereas friends are a means of security to royalty,  
+it is a mark of a tyrant to be extremely distrustful of his friends,  
+on the ground that, while all have the wish,  
+these chiefly have the power."
+
+Jowett:  
+"And whereas the power of a king is preserved by his friends,  
+the characteristic of a tyrant is to distrust his friends,  
+because he knows that all men want to overthrow him, and they above all have the power."
+
+Ellis:  
+"A king is preserved by his friends,  
+but a tyrant is of all persons the man who can place no confidence in friends,  
+as every one has it in his desire and these chiefly in their power to destroy him."
+
+Simpson:  
+"Further, while kingship is preserved by friends,  
+it is a mark of tyranny to distrust friends most of all  
+because, though everyone wants to attempt something,  
+these are most able to do it."
+
+Lord2013:  
+"Kingship is preserved by friends of the king,  
+but it is characteristic of the tyrant to distrust his friends,  
+on the assumption that all wish to overthrow him, but these are particularly capable of it."
+
+Sinclair1981:  
+"Friends are a source of stability to a kingship, but not to a tyrant;  
+it is part of his policy to mistrust them more than anyone, as having  
+more than anyone the power to do what all the others merely wish."
+
+Barker1948:  
+"Kings are maintained and secured by their friends;  
+tyrants, going on the principle  
+'All men want my overthrow, but my friends have most power to effect it',  
+distrust them above all others."
+
+
+
 ### 1314a
 
 Reeve:  
